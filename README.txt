@@ -1,0 +1,1 @@
+You can go through the JavaScript files where you will see code and explanations. You can also launch the HTML pages in your browser and open the console to see the result of the JavaScript by pressing ctrl + shift + I and selecting console
